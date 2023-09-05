@@ -30,7 +30,7 @@
             "**/Test/**"
         ],
         "files": [
-            "../magento2/app/etc/NonComposerComponentRegistration.php"
+            "app/etc/NonComposerComponentRegistration.php"
         ],
         "psr-0": {
             "": [
